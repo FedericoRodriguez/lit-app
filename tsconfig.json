@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "sourceMap": true,
+      "outDir": "dist",
+      "target": "es2020", // Specify ECMAScript target version
+      "module": "es2020", //  Specify module code generation
+      "moduleResolution": "node", // Specify module resolution strategy
+      "experimentalDecorators": true //  Enables experimental support for ES7 decorators.
+    },
+    "lib": ["es2015"]
+  }
