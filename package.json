@@ -1,0 +1,14 @@
+{
+  "name": "lit",
+  "version": "1.0.0",
+  "description": "test lit",
+  "main": "main.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Federico Rodirguez",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^2.4.1"
+  }
+}
